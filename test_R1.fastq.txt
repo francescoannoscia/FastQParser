@@ -1,4 +1,0 @@
-@Read_Misteriosa/1
-ACGTACGT
-+
-IIIIIIII
